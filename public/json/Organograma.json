@@ -1,0 +1,310 @@
+[
+    {
+        "id": 1,
+        "nome": "Prefeitura Municipal de Olinda",
+        "sigla": "PMO",
+        "responsavel": "Lupércio Carlos do Nascimento",
+        "idSecretariaPAi": 1
+    },
+    {
+        "id": 2,
+        "nome": "Secretaria da Fazenda",
+        "sigla": "SEFAZ",
+        "responsavel": "Mirela Almeida",
+        "idSecretariaPAi": 1
+    },
+    {
+        "id": 3,
+        "nome": "Secretaria Executiva da Fazenda",
+        "sigla": "SEEFAZ",
+        "responsavel": "Luciano Brasileiro",
+        "idSecretariaPAi": 2
+    },
+    {
+        "id": 4,
+        "nome": "Secretaria de Planejamento e Gestão Estratégica",
+        "sigla": "SEPLAG",
+        "responsavel": "Márcia Moraes",
+        "idSecretariaPAi": 2
+    },
+    {
+        "id": 5,
+        "nome": "Secretaria de Gestão de Pessoas e Administração",
+        "sigla": "SGPA",
+        "responsavel": "Cláudia Tabosa",
+        "idSecretariaPAi": 1
+    },
+    {
+        "id": 6,
+        "nome": "Secretaria Executiva de Gestão de Pessoas e Administração",
+        "sigla": "SEGPA",
+        "responsavel": "Milena Gonzaga",
+        "idSecretariaPAi": 5
+    },
+    {
+        "id": 7,
+        "nome": "Secretaria de Obras",
+        "sigla": "SeObras",
+        "responsavel": "Pollyana",
+        "idSecretariaPAi": 1
+    },
+    {
+        "id": 8,
+        "nome": "Secretaria Executiva de Infraestrutura Urbana",
+        "sigla": "SEInfra",
+        "responsavel": "",
+        "idSecretariaPAi": 7
+    },
+    {
+        "id": 9,
+        "nome": "Secretaria Executiva de Limpeza Urbana",
+        "sigla": "SELU",
+        "responsavel": "",
+        "idSecretariaPAi": 8
+    },
+    {
+        "id": 10,
+        "nome": "Secretaria de Segurança Cidadã",
+        "sigla": "SSC",
+        "responsavel": "",
+        "idSecretariaPAi": 1
+    },
+    {
+        "id": 11,
+        "nome": "Secretaria de Assuntos Jurídicos",
+        "sigla": "SAJ",
+        "responsavel": "",
+        "idSecretariaPAi": 1
+    },
+    {
+        "id": 12,
+        "nome": "Secretaria de Comunicação",
+        "sigla": "SECOM",
+        "responsavel": "Patrícia",
+        "idSecretariaPAi": 1
+    },
+    {
+        "id":13,
+        "nome":"Secretaria de Patrimônio, Cultura, Turismo",
+        "sigla":"SPACTUR",
+        "responsavel":"Gabriela Campello",
+        "idSecretariaPAi":1
+    },
+    {
+        "id":14,
+        "nome":"Secretaria Executiva de Turismo",
+        "sigla":"SETUR",
+        "responsavel":"Uyrandei de Medeiros Lemos",
+        "idSecretariaPAi":13
+    },
+    {
+        "id":15,
+        "nome":"Secretaria Executiva de Cultura",
+        "sigla":"SEC",
+        "responsavel":"Ivson Rodrigo da Silva Melo",
+        "idSecretariaPAi":13
+    },
+    {
+        "id":16,
+        "nome":"Secretaria Executiva de Patrimônio",
+        "sigla":"SEP",
+        "responsavel":"Odin Felipe Neves",
+        "idSecretariaPAi":13
+    },
+    {
+        "id":17,
+        "nome":"Secretaria de Desenvolvimento Econômico Inovação e Tecnologia",
+        "sigla":"SEDEIT",
+        "responsavel":"Carla L",
+        "idSecretariaPAi":1
+    },
+    {
+        "id":18,
+        "nome":"Secretaria Executiva de Desenvolvimento Econômico Inovação e Tecnologia",
+        "sigla":"SEDEITEC",
+        "responsavel":"Leandro Reinaldo Santas da Silva",
+        "idSecretariaPAi":17
+    },
+    {
+        "id":19,
+        "nome":"Secretaria Executiva de Comunicaçao",
+        "sigla":"SECOM",
+        "responsavel":"Junior Dionisio",
+        "idSecretariaPAi":12
+    },
+    {
+        "id":20,
+        "nome":"Secretaria de Gestão Urbana",
+        "sigla":"SEGUR",
+        "responsavel":"Marconi Madruga",
+        "idSecretariaPAi":1
+    },
+    {
+        "id":21,
+        "nome":"Secretaria Executiva de Manutenção Urbana",
+        "sigla":"SEEMUR",
+        "responsavel":"Aluísio Pereira Andrade Filho",
+        "idSecretariaPAi":20
+    },
+    {
+        "id":22,
+        "nome":"Secretaria Executiva da Defesa Cívil",
+        "sigla":"SEDEC",
+        "responsavel":"Carlos Alberto D' Albuquerque Maranhão Filho",
+        "idSecretariaPAi":20
+    },
+    {
+        "id":23,
+        "nome":"Secretaria Executiva de Serviços Públicos",
+        "sigla":"SESP",
+        "responsavel":"Pedro Henrique Sampaio de Amorim",
+        "idSecretariaPAi":20
+    },
+    {
+        "id":24,
+        "nome":"Secretaria Executiva de Obras",
+        "sigla":"SeEObras",
+        "responsavel":"Roberto Rocha",
+        "idSecretariaPAi":7
+    },
+    {
+        "id":25,
+        "nome":"Secretaria Executiva de Urbanização Integrada",
+        "sigla":"SEEURI",
+        "responsavel":"Carlos Sampaio",
+        "idSecretariaPAi":7
+    },
+    {
+        "id":26,
+        "nome":"Secretaria Executiva de Segurança Urbana",
+        "sigla":"SEESUR",
+        "responsavel":"Guilherme de Melo",
+        "idSecretariaPAi":10
+    },
+    {
+        "id":27,
+        "nome":"Secretaria Executiva de Planejamento em Segurança Cidadã",
+        "sigla":"SEPSC",
+        "responsavel":"Sérgio Fentes",
+        "idSecretariaPAi":10
+    },
+    {
+        "id":28,
+        "nome":"Secretaria de Desenvolvimento Social, e Direitos Humanos",
+        "sigla":"SDSCDH",
+        "responsavel":"Paulo Roberto Souza Silva",
+        "idSecretariaPAi":1
+    },
+    {
+        "id":29,
+        "nome":"Secretaria Executiva de Assistência Social",
+        "sigla":"SEAS",
+        "responsavel":"Maria Rosely Chaves dos Santos",
+        "idSecretariaPAi":28
+    },
+    {
+        "id":30,
+        "nome":"Secretaria Executiva da Mulher e Direitos Humanos",
+        "sigla":"SEMDH",
+        "responsavel":"Verônica Cristina Brayner dos Santos",
+        "idSecretariaPAi":28
+    },
+    {
+        "id":31,
+        "nome":"Secretaria de Saúde",
+        "sigla":"SSAU",
+        "responsavel":"Suzana Rayssa Melo Ribeiro",
+        "idSecretariaPAi":1
+    },
+    {
+        "id":32,
+        "nome":"Secretaria Executiva de Gestão de Saúde",
+        "sigla":"SEGS",
+        "responsavel":"Aécio Luiz da Granja dos Santos",
+        "idSecretariaPAi":31
+    },
+    {
+        "id":33,
+        "nome":"Secretaria Executiva de Saúde",
+        "sigla":"SESAU",
+        "responsavel":"",
+        "idSecretariaPAi":31
+    },
+    {
+        "id":34,
+        "nome":"Secretaria da Educação",
+        "sigla":"SEDU",
+        "responsavel":"Edilene Soares das Neves",
+        "idSecretariaPAi":1
+    },
+    {
+        "id":35,
+        "nome":"Secretaria Executiva de Programas e Políticas Educacionais",
+        "sigla":"SEPPE",
+        "responsavel":"Leidjane",
+        "idSecretariaPAi":34
+    },
+    {
+        "id":36,
+        "nome":"Secretaria Executiva de Gestão da Educação",
+        "sigla":"SEGE",
+        "responsavel":"José Marcílio C. Valença Júnior",
+        "idSecretariaPAi":34
+    },
+    {
+        "id":37,
+        "nome":"Secretaria de Esportes e Juventude",
+        "sigla":"SEJ",
+        "responsavel":"Sérgio Pereira dos Santos",
+        "idSecretariaPAi":1
+    },
+    {
+        "id":38,
+        "nome":"Secretaria Executiva de Esportes e Juventude",
+        "sigla":"SEEJ",
+        "responsavel":"Clayton Luiz e Silva Correia",
+        "idSecretariaPAi":37
+    },
+    {
+        "id":39,
+        "nome":"Secretaria de Mobilidade Urbana",
+        "sigla":"SMU",
+        "responsavel":"Maxwell Behar de Albuquerque",
+        "idSecretariaPAi":1
+    },
+    {
+        "id":40,
+        "nome":"Secretaria Executiva de Mobilidade Urbana",
+        "sigla":"SEMU",
+        "responsavel":"Cristiano arruda",
+        "idSecretariaPAi":39
+    },
+    {
+        "id":41,
+        "nome":"Secretaria de Meio Ambiente e Planejamento Urbano",
+        "sigla":"SEMAPU",
+        "responsavel":"André Antony Domingos Botelho",
+        "idSecretariaPAi":1
+    },
+    {
+        "id":42,
+        "nome":"Secretaria Executiva de Planejamento Ambiental",
+        "sigla":"SEPA",
+        "responsavel":"Wolney Queiroz",
+        "idSecretariaPAi":41
+    },
+    {
+        "id":43,
+        "nome":"Secretaria Executiva de Controle Urbano Ambiental",
+        "sigla":"SECUA",
+        "responsavel":"Rodrigo Leite Cardoso Santos",
+        "idSecretariaPAi":42
+    },
+    {
+        "id":44,
+        "nome":"Secretaria Executiva de Planejamento Urbano",
+        "sigla":"SEPU",
+        "responsavel":"Ana Claudia Morais Fonseca",
+        "idSecretariaPAi":41
+    }
+]

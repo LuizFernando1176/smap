@@ -1,0 +1,79 @@
+{
+    "fields": [
+        {
+            "name": "nome",
+            "type": "string"
+        },
+        {
+            "name": "percentual",
+            "type": "float"
+        },
+        {
+            "name": "prazo",
+            "type": "date"
+        },
+        {
+            "name": "status",
+            "type": "select",
+            "options":{
+                "Em Execução":"Em Execução",
+                "Parada":"Parada",
+                "Cancelada":"Cancelada",
+                "Concluída":"Concluída"
+            }
+        },
+        {
+            "name": "responsavel",
+            "type": "string"
+        },
+        {
+            "name": "observacao",
+            "type": "text"
+        },
+        {
+            "name": "numeroPPA",
+            "type": "smallint#unsigned"
+        },
+        {
+            "name": "pPA",
+            "type": "boolean"
+        },
+        {
+            "name": "idAcao",
+            "type": "bigint#unsigned"
+        }
+    ],
+    "foreign_keys": [
+        {
+            "column": "idAcao",
+            "references": "id",
+            "on": "acaos",
+            "onDelete": "cascade"
+        }
+    ],
+    "relationships": [
+        {
+            "name": "acaos",
+            "type": "belongsTo",
+            "class": "App\\Models\\Acao"
+        }
+    ],
+    "validations": [
+        {
+            "field": "nome",
+            "rules": "required"
+        },
+        {
+            "field": "prazo",
+            "rules": "required"
+        },
+        {
+            "field": "pPA",
+            "rules": "required"
+        },
+        {
+            "field": "numeroPPA",
+            "rules": "required"
+        }
+    ]
+}

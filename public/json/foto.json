@@ -1,0 +1,42 @@
+{
+    "fields": [
+        {
+            "name": "legenda",
+            "type": "string"
+        },
+        {
+            "name": "foto",
+            "type": "file"
+        },
+        {
+            "name": "idHistorico",
+            "type": "bigint#unsigned"
+        }
+    ],
+    "foreign_keys": [
+        {
+            "column": "idHistorico",
+            "references": "id",
+            "on": "historicos",
+            "onUpdate": "cascade",
+            "onDelete": "cascade"
+        }
+    ],
+    "relationships": [
+        {
+            "name": "historicos",
+            "type": "belongsTo",
+            "class": "App\\Models\\Historico"
+        }
+    ],
+    "validations": [
+        {
+            "field": "foto",
+            "rules": "required"
+        },
+		{
+            "field": "idHistorico",
+            "rules": "required"
+        }
+    ]
+}

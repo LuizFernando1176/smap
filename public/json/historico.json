@@ -1,0 +1,37 @@
+{
+    "fields": [
+        {
+            "name": "descricao",
+            "type": "text"
+        },
+        {
+            "name": "idAtividade",
+            "type": "bigint#unsigned"
+        }
+    ],
+    "foreign_keys": [
+        {
+            "column": "idAtividade",
+            "references": "id",
+            "on": "atividades",
+            "onDelete": "cascade"
+        }
+    ],
+    "relationships": [
+        {
+            "name": "atividades",
+            "type": "belongsTo",
+            "class": "App\\Models\\Atividade"
+        }
+    ],
+    "validations": [
+        {
+            "field": "descricao",
+            "rules": "required"
+        },
+		{
+            "field": "idAtividade",
+            "rules": "required"
+        }
+    ]
+}

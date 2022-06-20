@@ -1,0 +1,9 @@
+php artisan crud:generate Secretaria --fields_from_file="public/json/secretaria.json" --view-path=secretaria --controller-namespace=App\Http\Controllers --route-group=secretaria
+
+php artisan crud:generate Acao --fields_from_file="public/json/acaos.json" --view-path=acao --controller-namespace=App\Http\Controllers --route-group=acao
+
+php artisan crud:generate Atividade --fields_from_file="public/json/atividades.json" --view-path=atividade --controller-namespace=App\Http\Controllers --route-group=atividade
+
+php artisan crud:generate Historico --fields_from_file="public/json/historico.json" --view-path=historico --controller-namespace=App\Http\Controllers --route-group=historico
+
+php artisan crud:generate Foto --fields_from_file="public/json/foto.json" --view-path=foto --controller-namespace=App\Http\Controllers --route-group=foto

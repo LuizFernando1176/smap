@@ -1,0 +1,59 @@
+{
+    "fields": [
+        {
+            "name": "nome",
+            "type": "string"
+        },
+        {
+            "name": "percentual",
+            "type": "float"
+        },
+		{
+            "name": "prazo",
+            "type": "date"
+        },
+		{
+            "name": "exercicio",
+            "type": "smallint"
+        },
+        {
+            "name": "status",
+            "type": "select",
+            "options": {
+                "em execução": "Em execução",
+                "parada": "Parada",
+                "cancelada": "Cancelada",
+				"concluída": "Concluída"
+            }
+        },
+        {
+            "name": "idSecretaria",
+            "type": "bigint#unsigned"
+        }
+    ],
+    "foreign_keys": [
+        {
+            "column": "idSecretaria",
+            "references": "id",
+            "on": "secretarias",
+            "onDelete": "cascade"
+        }
+    ],
+    "relationships": [
+        {
+            "name": "secretarias",
+            "type": "belongsTo",
+            "class": "App\\Models\\Secretaria"
+        }
+    ],
+    "validations": [
+        {
+            "field": "nome",
+            "rules": "required|min:4"
+        },
+		{
+            "field": "exercicio",
+            "rules": "required"
+        }
+    ]
+}

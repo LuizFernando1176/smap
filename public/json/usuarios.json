@@ -1,0 +1,582 @@
+[
+    {
+
+        "email": "zenildogbf@gmail.com",
+        "password": "OYE6UF93",
+        "name": "ZENILDO GONZAGA",
+        "cpf": "1234567",
+        "matricula": 0,
+        "nivel": 3,
+        "idSecretaria": 4
+    },
+    {
+
+        "email": "renne_galindo@hotmail.com",
+        "password": "Udlq1oeA",
+        "name": "RENNE GALINDO",
+        "cpf": 5696716474,
+        "matricula": 0,
+        "nivel": 1,
+        "idSecretaria": 4
+    },
+    {
+
+        "email": "emmanuelsiqueira31@gmail.com",
+        "password": "Ka17qA2u",
+        "name": "EMMANUEL SIQUEIRA",
+        "cpf": 123456789,
+        "matricula": 12345,
+        "nivel": 3,
+        "idSecretaria": 4
+    },
+    {
+
+        "email": "mirellafbalmeida@gmail.com",
+        "password": "FgBbmAT7",
+        "name": "MIRELLA FERNANDA BEZERRA DE ALMEIDA",
+        "cpf": "1234567",
+        "matricula": 0,
+        "nivel": 1,
+        "idSecretaria": 2
+    },
+    {
+
+        "email": "victorparaiso43@gmail.com",
+        "password": "e6nUkIWu",
+        "name": "VICTOR GABRIEL DOS SANTOS PARAÍSO",
+        "cpf": "1234567",
+        "matricula": 0,
+        "nivel": 2,
+        "idSecretaria": 4
+    },
+    {
+
+        "email": "alyssoncorp@gmail.com",
+        "password": "jMsPNkBt",
+        "name": "ALYSSON LIMA DE ARAÚJO",
+        "cpf": 32165498767,
+        "matricula": 0,
+        "nivel": 2,
+        "idSecretaria": 4
+    },
+    {
+
+        "email": "marciamoraes83@hotmail.com",
+        "password": "4MMu3o08",
+        "name": "MÁRCIA MARIA N DE MORAES",
+        "cpf": "1234567",
+        "matricula": 708631,
+        "nivel": 3,
+        "idSecretaria": 4
+    },
+    {
+
+        "email": "cintiaa182019@gmail.com",
+        "password": "L2ay2twW",
+        "name": "CÍNTIA SILVA DE MOURA",
+        "cpf": 71433217457,
+        "matricula": 0,
+        "nivel": 3,
+        "idSecretaria": 4
+    },
+    {
+
+        "email": "monitoraolinda@gmail.com",
+        "password": "parPjDBI",
+        "name": "PRISCYLLA SALES DO NASCIMENTO",
+        "cpf": 7514686495,
+        "matricula": 722669,
+        "nivel": 3,
+        "idSecretaria": 4
+    },
+    {
+
+        "email": "sofiamelojus@gmail.com",
+        "password": "PuZdUaNP",
+        "name": "SOFIA DE VASCONCELOS PINHO MELO",
+        "cpf": 71108810403,
+        "matricula": 66666,
+        "nivel": 3,
+        "idSecretaria": 4
+    },
+    {
+
+        "email": "luciano@finance.com.br",
+        "password": "mbAfF1eR",
+        "name": "LUCIANO BRASILEIRO",
+        "cpf": "1234567",
+        "matricula": 0,
+        "nivel": 1,
+        "idSecretaria": 3
+    },
+    {
+
+        "email": "adv.claudiamtabosa@gmail.com",
+        "password": "s4Gko27T",
+        "name": "CLÁUDIA MARIA SILVA TABOSA",
+        "cpf": "1234567",
+        "matricula": 0,
+        "nivel": 1,
+        "idSecretaria": 5
+    },
+    {
+
+        "email": "milenagonzaga.segpa@gmail.com",
+        "password": "Spk2tmB9",
+        "name": "MILENA GONZAGA",
+        "cpf": "1234567",
+        "matricula": 0,
+        "nivel": 1,
+        "idSecretaria": 6
+    },
+    {
+
+        "email": "gabrielaseturde@gmail.com",
+        "password": "Xads0r9d",
+        "name": "GABRIELA CAMPELLO",
+        "cpf": "1234567",
+        "matricula": 0,
+        "nivel": 1,
+        "idSecretaria": 13
+    },
+    {
+
+        "email": "lemosseturdeolinda@gmail.com",
+        "password": "I99O0dhi",
+        "name": "UYRANDEI DE MEDEIROS LEMOS",
+        "cpf": "1234567",
+        "matricula": 0,
+        "nivel": 1,
+        "idSecretaria": 14
+    },
+    {
+
+        "email": "rodrigosilvasepac@gmail.com",
+        "password": "YnJCgHX0",
+        "name": "IVSON RODRIGO DA SILVA MELO",
+        "cpf": "1234567",
+        "matricula": 0,
+        "nivel": 1,
+        "idSecretaria": 15
+    },
+    {
+
+        "email": "odineves@hotmail.com",
+        "password": "x8sgltg8",
+        "name": "ODIN FELIPE NEVES",
+        "cpf": "1234567",
+        "matricula": 0,
+        "nivel": 1,
+        "idSecretaria": 16
+    },
+    {
+
+        "email": "leandrodantas1000@hotmail.com",
+        "password": "JArArqd1",
+        "name": "LEANDRO REINALDO SANTAS DA SILVA",
+        "cpf": "1234567",
+        "matricula": 0,
+        "nivel": 1,
+        "idSecretaria": 26
+    },
+    {
+
+        "email": "carla.tadeia@olinda.pe.gov.br",
+        "password": "qcGg6oFU",
+        "name": "Carla Tadéia",
+        "cpf": "1234567",
+        "matricula": 0,
+        "nivel": 1,
+        "idSecretaria": 17
+    },
+    {
+
+        "email": "m.madruga@hotmail.com",
+        "password": "ROXzWuoJ",
+        "name": "MARCONI MADRUGA",
+        "cpf": "1234567",
+        "matricula": 0,
+        "nivel": 1,
+        "idSecretaria": 11
+    },
+    {
+
+        "email": "aluisiofilho15@gmail.com",
+        "password": "sXpTHMSR",
+        "name": "ALUÍSIO PEREIRA ANDRADE FILHO",
+        "cpf": "1234567",
+        "matricula": 0,
+        "nivel": 1,
+        "idSecretaria": 19
+    },
+    {
+
+        "email": "dalbuquerque.eng@gmail.com",
+        "password": "MBR5swwZ",
+        "name": "CARLOS ALBERTO D´ ALBUQUERQUE MARANHÃO FILHO",
+        "cpf": "1234567",
+        "matricula": 0,
+        "nivel": 1,
+        "idSecretaria": 28
+    },
+    {
+
+        "email": "pedrohsampaio@hotmail.com",
+        "password": "O36KhBf0",
+        "name": "PEDRO HENRIQUE SAMPAIO DE AMORIM",
+        "cpf": "1234567",
+        "matricula": 0,
+        "nivel": 1,
+        "idSecretaria": 29
+    },
+    {
+
+        "email": "pollyprefeituraolinda@gmail.com",
+        "password": "Q3pnnUyX",
+        "name": "POLLYANA MONTEIRO",
+        "cpf": "1234567",
+        "matricula": 0,
+        "nivel": 1,
+        "idSecretaria": 7
+    },
+    {
+
+        "email": "engrobertorocha@hotmail.com",
+        "password": "sdr0pBH3",
+        "name": "ROBERTO ROCHA",
+        "cpf": "1234567",
+        "matricula": 0,
+        "nivel": 1,
+        "idSecretaria": 30
+    },
+    {
+
+        "email": "carlosampa@hotmail.com",
+        "password": "CayuLkKa",
+        "name": "CARLOS SAMPAIO",
+        "cpf": "1234567",
+        "matricula": 0,
+        "nivel": 1,
+        "idSecretaria": 31
+    },
+    {
+
+        "email": "a.f.pereiraneto@gmail.com",
+        "password": "dGlBIH2a",
+        "name": "CORONEL PEREIRA NETO",
+        "cpf": "1234567",
+        "matricula": 0,
+        "nivel": 1,
+        "idSecretaria": 14
+    },
+    {
+
+        "email": "guilhermedemelo@gmail.com",
+        "password": "AhEo22Bk",
+        "name": "GUILHERME DE MELO",
+        "cpf": "1234567",
+        "matricula": 0,
+        "nivel": 1,
+        "idSecretaria": 32
+    },
+    {
+
+        "email": "sergiofentes@gmail.com",
+        "password": "WtaCui5y",
+        "name": "SÉRGIO FENTES",
+        "cpf": "1234567",
+        "matricula": 0,
+        "nivel": 1,
+        "idSecretaria": 33
+    },
+    {
+
+        "email": "pauloroberto0902@gmail.com",
+        "password": "8tjKTtly",
+        "name": "PAULO ROBERTO SOUZA SILVA",
+        "cpf": 10218688415,
+        "matricula": 700932,
+        "nivel": 1,
+        "idSecretaria": 15
+    },
+    {
+
+        "email": "rose.fisio2@hotmail.com",
+        "password": "1M0AUraU",
+        "name": "MARIA ROSELY CHAVES DOS SANTOS",
+        "cpf": 86893327404,
+        "matricula": 634999,
+        "nivel": 1,
+        "idSecretaria": 15
+    },
+    {
+
+        "email": "veronicabraynersemdh@outlook.com",
+        "password": "Of9GXBrt",
+        "name": "VERÔNICA CRISTINA BRAYNER DOS SANTOS",
+        "cpf": "1234567",
+        "matricula": 700029,
+        "nivel": 1,
+        "idSecretaria": 35
+    },
+    {
+
+        "email": "suzana.ribeiro.pse@gmail.com",
+        "password": "wIwgqqUp",
+        "name": "SUZANA RAYSSA MELO RIBEIRO",
+        "cpf": "1234567",
+        "matricula": 0,
+        "nivel": 1,
+        "idSecretaria": 7
+    },
+    {
+
+        "email": "aecio.granja@gmail.com",
+        "password": "a41uodif",
+        "name": "AÉCIO LUIZ DA GRANJA DOS SANTOS",
+        "cpf": "1234567",
+        "matricula": 0,
+        "nivel": 1,
+        "idSecretaria": 36
+    },
+    {
+
+        "email": "adi.soares@uol.com.br",
+        "password": "pYgBF7WU",
+        "name": "EDILENE SOARES DAS NEVES",
+        "cpf": "1234567",
+        "matricula": 0,
+        "nivel": 1,
+        "idSecretaria": 8
+    },
+    {
+
+        "email": "leidjane@olinda.pe.gov.br",
+        "password": "cWc0YJjJ",
+        "name": "LEIDJANE",
+        "cpf": "1234567",
+        "matricula": 0,
+        "nivel": 1,
+        "idSecretaria": 37
+    },
+    {
+
+        "email": "mvalencajr@gmail.com",
+        "password": "SUqACBpd",
+        "name": "JOSÉ MARCÍLIO C. VALENÇA JÚNIOR",
+        "cpf": "1234567",
+        "matricula": 0,
+        "nivel": 1,
+        "idSecretaria": 38
+    },
+    {
+
+        "email": "sp.santos@yahoo.com.br",
+        "password": "6hNkAxGq",
+        "name": "SÉRGIO PEREIRA DOS SANTOS",
+        "cpf": "1234567",
+        "matricula": 0,
+        "nivel": 1,
+        "idSecretaria": 16
+    },
+    {
+
+        "email": "claytonbrow@bol.com.br",
+        "password": "LmrRjEmB",
+        "name": "CLAYTON LUIZ E SILVA CORREIA",
+        "cpf": "1234567",
+        "matricula": 0,
+        "nivel": 1,
+        "idSecretaria": 39
+    },
+    {
+
+        "email": "maxwellbehar@gmail.com",
+        "password": "aE1yOa8h",
+        "name": "MAXWELL BEHAR DE ALBUQUERQUE",
+        "cpf": 73516112468,
+        "matricula": 722448,
+        "nivel": 1,
+        "idSecretaria": 12
+    },
+    {
+
+        "email": "cristianoarrudaadvogado@gmail.com",
+        "password": "wohyqNQm",
+        "name": "CRISTIANO ARRUDA",
+        "cpf": 0,
+        "matricula": 0,
+        "nivel": 1,
+        "idSecretaria": 40
+    },
+    {
+
+        "email": "andre_antony@hotmail.com",
+        "password": "ufNwRTcd",
+        "name": "ANDRÉ ANTONY DOMINGOS BOTELHO",
+        "cpf": "1234567",
+        "matricula": 0,
+        "nivel": 1,
+        "idSecretaria": 9
+    },
+    {
+
+        "email": "woneyqueiroz@yahoo.com.br",
+        "password": "6KufOYho",
+        "name": "WOLNEY QUEIROZ",
+        "cpf": "1234567",
+        "matricula": 0,
+        "nivel": 1,
+        "idSecretaria": 41
+    },
+    {
+
+        "email": "rodrigo_cardoso_roca@hotmail.com",
+        "password": "cZdq0cOl",
+        "name": "RODRIGO LEITE CARDOSO SANTOS",
+        "cpf": "1234567",
+        "matricula": 0,
+        "nivel": 1,
+        "idSecretaria": 42
+    },
+    {
+
+        "email": "anaclaudia.sepu@hotmail.com",
+        "password": "GwZy9qbu",
+        "name": "ANA CLAUDIA MORAIS FONSECA",
+        "cpf": "1234567",
+        "matricula": 0,
+        "nivel": 1,
+        "idSecretaria": 43
+    },
+    {
+
+        "email": "smobjuridico@gmail.com",
+        "password": "Loge8875",
+        "name": "ANA JULIA XAVIER DOWNSLEY PINHEIRO",
+        "cpf": 12257500407,
+        "matricula": 722928,
+        "nivel": 1,
+        "idSecretaria": 12
+    },
+    {
+
+        "email": "alexandrerolopez@hotmail.com",
+        "password": "IsbYG8Cj",
+        "name": "ALEXANDRE RODRIGUES LOPES",
+        "cpf": 58964878434,
+        "matricula": 7307181,
+        "nivel": 1,
+        "idSecretaria": 28
+    },
+    {
+
+        "email": "arq.susymuro@gmail.com",
+        "password": "YgPN8fzF",
+        "name": "SUSY MARY CARMEN MURO SAAVEDRA",
+        "cpf": 70038390400,
+        "matricula": 645819,
+        "nivel": 1,
+        "idSecretaria": 43
+    },
+    {
+
+        "email": "lucianastambonsky@gmail.com",
+        "password": "QO3Q6TBH",
+        "name": "LUCIANA SOUZA DE OLIVEIRA STAMBONSKY",
+        "cpf": 70307970434,
+        "matricula": 922399,
+        "nivel": 1,
+        "idSecretaria": 15
+    },
+    {
+
+        "email": "monique.arquitetura9@gmail.com",
+        "password": "8hl7gj2p",
+        "name": "MONIQUE PRISCILLA VIEIRA DA SILVA",
+        "cpf": 11258729423,
+        "matricula": 7018360,
+        "nivel": 3,
+        "idSecretaria": 1
+    },
+    {
+
+        "email": "seppeolinda@gmail.com",
+        "password": "SSDZRG8p",
+        "name": "LEYDJANE BATISTA DAS NEVES",
+        "cpf": 39031993468,
+        "matricula": 701734,
+        "nivel": 3,
+        "idSecretaria": 1
+    },
+    {
+
+        "email": "secretariamobraspmo@gmail.com",
+        "password": "mO3ktspB",
+        "name": "ELENICE PEREIRA CAVALCANTE",
+        "cpf": 2797329457,
+        "matricula": 715891013,
+        "nivel": 3,
+        "idSecretaria": 1
+    },
+    {
+
+        "email": "sec.espostespmo@gmail.com",
+        "password": "UG7gNGk9",
+        "name": "NATÁLIA CRISTINA RIBAS DE MOURA",
+        "cpf": 11819066444,
+        "matricula": 15339,
+        "nivel": 3,
+        "idSecretaria": 1
+    },
+    {
+
+        "email": "pauloseturdeolinda@gmail.com",
+        "password": "eRpAjKUm",
+        "name": "PAULO DE ARAÚJO MEIRA NETO",
+        "cpf": 1133385460,
+        "matricula": 7001931,
+        "nivel": 3,
+        "idSecretaria": 1
+    },
+    {
+
+        "email": "leocordholanda2010@hotmail.com",
+        "password": "yddhHwCh",
+        "name": "LEONICE CORDEIRO HOLANDA",
+        "cpf": 22640185420,
+        "matricula": 7239402,
+        "nivel": 3,
+        "idSecretaria": 1
+    },
+    {
+
+        "email": "sergio_jbjr@outlook.com",
+        "password": "QinRWw3k",
+        "name": "SÉRGIO JOSÉ BEZERRA JÚNIOR",
+        "cpf": 9806492420,
+        "matricula": 721638,
+        "nivel": 3,
+        "idSecretaria": 1
+    },
+    {
+
+        "email": "jardyelle_rayane@hotmail.com",
+        "password": "75Mo494u",
+        "name": "JARDYELLE RAYANE BISPO RODRIGUES",
+        "cpf": 10883411440,
+        "matricula": 7179911,
+        "nivel": 1,
+        "idSecretaria": 1
+    },
+    {
+
+        "email": "eduarda_assis@outlook.com",
+        "password": "PZ2e2unm",
+        "name": "EDUARDA ASSIS DOS SANTOS",
+        "cpf": 10702118427,
+        "matricula": 65662312,
+        "nivel": 1,
+        "idSecretaria": 1
+    }
+]
